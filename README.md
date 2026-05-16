@@ -89,12 +89,12 @@ const dhirendra = {
 
 | Repository | Description | Stack |
 |---|---|---|
-| [🧠 ai-regulatory-rule-engine](https://github.com/dhirendrakumar-ai/ai-regulatory-rule-engine) | NLP-powered rule extraction & explainable compliance engine for EMIR/Dodd-Frank | Python · NLP · Neo4j |
-| [💬 rag-regulatory-chatbot](https://github.com/dhirendrakumar-ai/rag-regulatory-chatbot) | Intelligent document search & query for regulatory PDFs using RAG & LangChain | Python · LangChain · LLM |
-| [📐 enterprise-system-design-notes](https://github.com/dhirendrakumar-ai/enterprise-system-design-notes) | Architecture patterns: CAP, CQRS, event sourcing, Kafka, distributed caching | Markdown · Architecture |
-| [🔬 genai-learning-labs](https://github.com/dhirendrakumar-ai/genai-learning-labs) | Hands-on GenAI: prompt engineering, agents, fine-tuning & AI governance | Jupyter · Python · GenAI |
-| [⚡ distributed-file-copy-engine](https://github.com/dhirendrakumar-ai/distributed-file-copy-engine) | High-performance parallel file processing with retry patterns & resilience | C# · .NET Core |
-| [🕸️ knowledge-graph-compliance](https://github.com/dhirendrakumar-ai/knowledge-graph-compliance) | Neo4j-based regulatory control & counterparty relationship mapping | Python · Neo4j · XAI |
+| [🧠 ai-regulatory-rule-engine](https://github.com/dhirendrakumar-ai/) | NLP-powered rule extraction & explainable compliance engine for EMIR/Dodd-Frank | Python · NLP · Neo4j |
+| [💬 rag-regulatory-chatbot](https://github.com/dhirendrakumar-ai/) | Intelligent document search & query for regulatory PDFs using RAG & LangChain | Python · LangChain · LLM |
+| [📐 enterprise-system-design-notes](https://github.com/dhirendrakumar-ai/) | Architecture patterns: CAP, CQRS, event sourcing, Kafka, distributed caching | Markdown · Architecture |
+| [🔬 genai-learning-labs](https://github.com/dhirendrakumar-ai/) | Hands-on GenAI: prompt engineering, agents, fine-tuning & AI governance | Jupyter · Python · GenAI |
+| [⚡ distributed-file-copy-engine](https://github.com/dhirendrakumar-ai/) | High-performance parallel file processing with retry patterns & resilience | C# · .NET Core |
+| [🕸️ knowledge-graph-compliance](https://github.com/dhirendrakumar-ai/) | Neo4j-based regulatory control & counterparty relationship mapping | Python · Neo4j · XAI |
 
 ---
 
